@@ -5,6 +5,8 @@ import items from './config/items.js'
 import getPurchasableItems from './utils/getPurchasableItems'
 import round from './utils/round'
 import useLocalStorage from './utils/useLocalStorage'
+import '@fontsource/boogaloo'
+import '@fontsource-variable/roboto-condensed/wght.css'
 
 function App() {
 
